@@ -14,7 +14,7 @@ _A clear and concise description of what you want._
 
 ## Why do you want this feature?
 
-_I'm always frustrated when ..., It would be nice if ..._
+_I'm always frustrated when ... / It would be nice if ..._
 
 ## Describe alternatives you've considered
 

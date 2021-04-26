@@ -10,7 +10,7 @@ _Please describe the changes you've made._
 
 ## Reason for changes
 
-_Why should these changes be made?_
+_Why did you make them?_
 
 ## Tests
 
